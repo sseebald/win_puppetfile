@@ -46,7 +46,7 @@ mod 'pe_windows_shortcuts',
   :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
   :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
 mod 'staging',
-  :git => 'https://github.com/sseebald/puppet-module-staging.git',
+  :git => 'https://github.com/reidmv/puppet-module-staging.git',
   :ref => 'seteam_puppet_environments'
 mod 'role',
   :git => 'https://github.com/sseebald/win_role.git',
