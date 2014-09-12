@@ -34,23 +34,23 @@ mod 'opentable/iis', '1.2.0'
 # or by individual SE's
 # mod 'seteam/profile', '0.2.4'
 mod 'dotnet',
-  :git => 'git@github.com:sseebald/dotnet.git',
+  :git => 'https://github.com/sseebald/dotnet.git',
   :ref => '891996e5c80dc06ed90019b8d45e3ba013d0377c'
-mod 'win_puppetfile',
-  :git => 'git@github.com:sseebald/win_puppetfile.git',
-  :ref => '903e0a4aa09e0233677b182a98376c70558f2db6'
+mod 'chocolatey',
+  :git => 'https://github.com/sseebald/chocolatey.git',
+  :ref => '59e713f2e89e7b8e7f0ef6aeb9aaad4d615fae6e'
 mod 'cmsapp',
-  :git => 'git@github.com:sseebald/cmsapp.git',
+  :git => 'https://github.com/sseebald/cmsapp.git',
   :ref => '734ef84a4f4450272f79d9099c93117b6859baf5'
 mod 'pe_windows_shortcuts',
-  :git => 'git@github.com:sseebald/pe_windows_shortcuts.git',
+  :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
   :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
 mod 'staging',
-  :git => 'git@github.com:reidmv/puppet-module-staging.git',
+  :git => 'https://github.com/sseebald/puppet-module-staging.git',
   :ref => 'seteam_puppet_environments'
 mod 'role',
-  :git => 'git@github.com:sseebald/win_role.git',
+  :git => 'https://github.com/sseebald/win_role.git',
   :ref => '01d46482ac81c3fb56c00ac20021f2846915287a'
 mod 'profile',
-  :git => 'git@github.com:sseebald/win_profile.git',
+  :git => 'https://github.com/sseebald/win_profile.git',
   :ref => '2021719fe0afc909c493d3d32322845755c60ec3'
