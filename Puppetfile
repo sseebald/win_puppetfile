@@ -36,6 +36,9 @@ mod 'opentable/iis', '1.2.0'
 mod 'dotnet',
   :git => 'git@github.com:sseebald/dotnet.git',
   :ref => '891996e5c80dc06ed90019b8d45e3ba013d0377c'
+mod 'win_puppetfile',
+  :git => 'git@github.com:sseebald/win_puppetfile.git',
+  :ref => '903e0a4aa09e0233677b182a98376c70558f2db6'
 mod 'cmsapp',
   :git => 'git@github.com:sseebald/cmsapp.git',
   :ref => '734ef84a4f4450272f79d9099c93117b6859baf5'
