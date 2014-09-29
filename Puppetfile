@@ -23,6 +23,7 @@ mod 'puppetlabs/acl', '1.0.3'
 mod 'puppetlabs/pe_gem', '0.0.1'
 mod 'puppetlabs/vcsrepo', '1.1.0'
 mod 'puppetlabs/powershell', '1.0.3'
+mod 'opentable/windowsfeature', '0.2.0'
 mod 'stdlib',
   :git => 'git://github.com/puppetlabs/puppetlabs-stdlib.git',
   :ref => '4.1.0'
@@ -38,10 +39,10 @@ mod 'dotnet',
   :ref => '891996e5c80dc06ed90019b8d45e3ba013d0377c'
 mod 'chocolatey',
   :git => 'https://github.com/sseebald/chocolatey.git',
-  :ref => '59e713f2e89e7b8e7f0ef6aeb9aaad4d615fae6e'
+  :ref => '4d81e1c75b12d4f42bda5fb74f4bf9abccfc4a0b'
 mod 'cmsapp',
   :git => 'https://github.com/sseebald/cmsapp.git',
-  :ref => '734ef84a4f4450272f79d9099c93117b6859baf5'
+  :ref => '0bfd34ffd1720baaf6e04b3cac1e4943dc394ee4'
 mod 'pe_windows_shortcuts',
   :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
   :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
