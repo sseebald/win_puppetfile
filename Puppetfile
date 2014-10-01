@@ -54,7 +54,7 @@ mod 'role',
   :ref => '01d46482ac81c3fb56c00ac20021f2846915287a'
 mod 'profile',
   :git => 'https://github.com/sseebald/win_profile.git',
-  :ref => '47356ea4efc639b522f6d7be40321fbbc4a6ea5d'
+  :ref => 'fc39cc502220eb2698262adebb43be635d070103'
 mod 'win_rdp',
 	:git => 'https://github.com/sseebald/win_rdp.git',
 	:ref => 'a3dfad580bf9ec1f5318790cd2398f79bf482691'
