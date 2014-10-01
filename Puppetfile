@@ -41,7 +41,7 @@ mod 'chocolatey',
   :ref => '59e713f2e89e7b8e7f0ef6aeb9aaad4d615fae6e'
 mod 'cmsapp',
   :git => 'https://github.com/sseebald/cmsapp.git',
-  :ref => '734ef84a4f4450272f79d9099c93117b6859baf5'
+  :ref => '0bfd34ffd1720baaf6e04b3cac1e4943dc394ee4'
 mod 'pe_windows_shortcuts',
   :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
   :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
@@ -53,4 +53,7 @@ mod 'role',
   :ref => '01d46482ac81c3fb56c00ac20021f2846915287a'
 mod 'profile',
   :git => 'https://github.com/sseebald/win_profile.git',
-  :ref => '2021719fe0afc909c493d3d32322845755c60ec3'
+  :ref => '47356ea4efc639b522f6d7be40321fbbc4a6ea5d'
+mod 'win_rdp',
+	:git => 'https://github.com/sseebald/win_rdp.git',
+	:ref => 'a3dfad580bf9ec1f5318790cd2398f79bf482691'
